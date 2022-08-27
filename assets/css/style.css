@@ -1,5 +1,42 @@
+body {
+  font-family: "Oxygen", sans-serif;
+}
+.bg-greenish-blue {
+  background-color: #168aad;
+}
+
+.navbar-brand {
+  font-family: "Zilla Slab", serif;
+  font-size: 28px;
+}
+
+.bg-light-lime-green {
+  background-color: #e1f1a7;
+}
+
+.profile-picture {
+  height: 50vh;
+}
+
 .img {
   height: 75vh;
+}
+
+.skill-img {
+  -webkit-filter: drop-shadow(5px 5px 5px #666666);
+  filter: drop-shadow(5px 5px 5px #666666);
+}
+
+.section-challenges {
+  background-color: #99d98c;
+}
+
+.bg-carousel-controller {
+  background-color: #52b69ab8;
+}
+
+.bg-carousel-caption {
+  background-color: #52b69ae8;
 }
 
 .image-top {
@@ -11,4 +48,10 @@
 
 .skill-img {
   max-width: 90px;
+}
+
+.blue-text {
+  color: #144367;
+  font-size: 28px;
+  font-weight: 700;
 }

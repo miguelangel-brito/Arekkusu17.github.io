@@ -8,3 +8,7 @@
   background-size: cover;
   background-position: left top;
 }
+
+.skill-img {
+  max-width: 90px;
+}
